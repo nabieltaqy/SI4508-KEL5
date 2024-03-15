@@ -47,6 +47,7 @@ Pahala datang berlipat ganda
 Berlomba-lomba untuk ibadah
 Dunia bahagia, surga nantinya
 
+<<<<<<< HEAD
 Andaikan saja Ramadhan semua
 Bulan yang tiba bulan yang ada
 Karena besarnya setiap pahala
@@ -57,3 +58,16 @@ Marhaban Ya Ramadhan
 Marhaban Ya Ramadhan
 Marhaban Ya Ramadhan
 
+=======
+<<<<<<< HEAD
+ramadhan tibalah engkau
+
+=======
+<<<<<<< HEAD
+tiba-tiba ramadhan euy waktunya cari takjil
+=======
+aku mokel
+
+>>>>>>> origin/main
+>>>>>>> 0fae30d103850f267adbe15c905fb921c9bf151e
+>>>>>>> d5c11dff60d0309cda6e6b8f6a71bc0fe3807589
