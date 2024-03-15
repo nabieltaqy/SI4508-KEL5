@@ -47,6 +47,7 @@ Pahala datang berlipat ganda
 Berlomba-lomba untuk ibadah
 Dunia bahagia, surga nantinya
 
+<<<<<<< HEAD
 Ramadhan tiba
 Ramadhan tiba
 Ramadhan tiba
@@ -55,3 +56,39 @@ Ramadhan tiba
 مرحبًا يا رمضان
 مرحبًا يا رمضان
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Andaikan saja Ramadhan semua
+Bulan yang tiba bulan yang ada
+Karena besarnya setiap pahala
+Yang di janjikan kepada kita
+
+Marhaban Ya Ramadhan
+Marhaban Ya Ramadhan
+Marhaban Ya Ramadhan
+Marhaban Ya Ramadhan
+
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+mari godin bersama
+=======
+aku mokel
+
+>>>>>>> c5fb028e7fa0a79ed6595c96d7cfd3a86b9e235a
+=======
+>>>>>>> 23d5570da33fc341c56d0ef962881248e59d8b2b
+ramadhan tibalah engkau
+
+=======
+<<<<<<< HEAD
+tiba-tiba ramadhan euy waktunya cari takjil
+=======
+aku mokel
+
+>>>>>>> origin/main
+>>>>>>> 0fae30d103850f267adbe15c905fb921c9bf151e
+>>>>>>> d5c11dff60d0309cda6e6b8f6a71bc0fe3807589
+>>>>>>> ac0003616e300e9da6e1303c2c26f4a458292c14
