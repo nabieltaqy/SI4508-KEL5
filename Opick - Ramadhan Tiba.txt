@@ -47,4 +47,9 @@ Pahala datang berlipat ganda
 Berlomba-lomba untuk ibadah
 Dunia bahagia, surga nantinya
 
+<<<<<<< HEAD
 mari godin bersama
+=======
+aku mokel
+
+>>>>>>> c5fb028e7fa0a79ed6595c96d7cfd3a86b9e235a
