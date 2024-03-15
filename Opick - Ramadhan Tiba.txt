@@ -47,5 +47,14 @@ Pahala datang berlipat ganda
 Berlomba-lomba untuk ibadah
 Dunia bahagia, surga nantinya
 
+<<<<<<< HEAD
 ramadhan tibalah engkau
 
+=======
+<<<<<<< HEAD
+tiba-tiba ramadhan euy waktunya cari takjil
+=======
+aku mokel
+
+>>>>>>> origin/main
+>>>>>>> 0fae30d103850f267adbe15c905fb921c9bf151e
